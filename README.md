@@ -18,8 +18,8 @@ const exampleText = ['TEXT 1', 'TEXT 2',];     <br>
 
 
 
-    -Here TEXT 1 and TEXT 2 type youre text.<br>
-    -And give the ID in html file where change the text
+Here TEXT 1 and TEXT 2 type youre text.<br>
+And give the ID in html file where change the text
 
 
 
